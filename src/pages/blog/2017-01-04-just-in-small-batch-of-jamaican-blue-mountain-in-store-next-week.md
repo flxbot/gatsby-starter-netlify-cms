@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Just in: small batch of Jamaican Blue Mountain in store next week"
+title: "Just out: small batch of Jamaican Blue Mountain in store next week"
 date: 2020-06-05T12:59:00.000Z
 description: We’re proud to announce that we’ll be offering a small batch of
   Jamaica Blue Mountain coffee beans in our store next week.
