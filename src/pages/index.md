@@ -70,4 +70,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+Headings:
+  - HeadingText: Heading 1
+  - HeadingText: Heading 2
 ---
